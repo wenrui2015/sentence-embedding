@@ -8,7 +8,7 @@ Five approachs including:<br>
 4、A brilliant method for Engineering which combine the bag-of-word and word vector,can also be considered as a variety of bag-of-word<br>
 <br>
 `pearsonr's coefficient` as follow：<br>
-
+![](https://github.com/wenrui2015/sentence-embedding/raw/master/image.png)
 <br>
 <br>
 `quick start`<br>
