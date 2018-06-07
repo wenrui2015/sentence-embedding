@@ -14,4 +14,4 @@ Five approaches including:<br>
 `quick start`<br>
 1、first you should download the glove word2vector `glove_model.txt` and place it into dir data/res<br>
 2、`glove_model.txt` iS too big you can contact me 1174950106@qq.com for the data<br>
-3、python main.py  "approach"    #approach is option \["ICLR2017","variety-of-bow","tf-idf","ave-glove-vector"\]<br>
+3、python main.py  "approach"    #approach is optional in \["ICLR2017","variety-of-bow","tf-idf","ave-glove-vector"\]<br>
