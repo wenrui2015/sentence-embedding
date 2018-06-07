@@ -8,7 +8,7 @@ Five approachs including:<br>
 4、A brilliant method for Engineering which combine the bag-of-word and word vector,can also be considered as a variety of bag-of-word<br>
 <br>
 `pearsonr's coefficient` as follow：<br>
-      test-data   approach_1"ICLR2017 paper" approach_2  approach_3  approach_4<br>
+      test-data   approach_1"ICLR2017 paper" approach_2  approach_3                    approach_4<br>
   sick-test                    0.72                      0.6036         0.6918            0.6746<br>
   sick-train                   0.73                      0.6044         0.694             0.682<br>
 <br>
