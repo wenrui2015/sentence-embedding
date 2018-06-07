@@ -1,7 +1,7 @@
 sentence-embedding
 =====
 This project compare five approachs of sentences embedding using data introduced by `ICLR2017 paper`"A SIMPLE BUT TOUGH-TO-BEAT BASELINE FOR SENTENCE EMBEDDINGS" (https://openreview.net/pdf?id=SyK00v5xx) We only test on `sentiment task` in this paper.<br>
-Five approachs including:<br>
+Five approaches including:<br>
 1、implemention of paper "A SIMPLE BUT TOUGH-TO-BEAT BASELINE FOR SENTENCE EMBEDDINGS"<br>
 2、tf-idf<br>
 3、average glove word vector<br>
