@@ -12,4 +12,4 @@ Five approachs including:<br>
 <br>
 <br>
 `quick start`<br>
-python main.py  "approach"    #approach is option on "ICLR2017"、"variety-of-bow"、"tf-idf"、"ave-glove-vector"<br>
+python main.py  "approach"    #approach is option \["ICLR2017","variety-of-bow","tf-idf","ave-glove-vector"\]<br>
